@@ -1,0 +1,22 @@
+.detalhes{
+    text-align: center;
+    border-radius: 8px;
+    justify-content: center;
+    padding: 3vh; 
+    color: #fff;
+    font-weight: 400;
+    font-size: 3vh;
+}
+#nome{
+    padding: 2vh;
+}
+
+.detalhes img{
+    max-width: 80%;
+}
+.detalhes .info h3{
+    color:#00ad1a;
+}
+.detalhes .info p{
+    color:#FFF;
+}
